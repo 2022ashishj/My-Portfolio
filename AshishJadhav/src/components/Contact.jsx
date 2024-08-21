@@ -45,10 +45,10 @@ const Contact = () => {
 
     emailjs
       .sendForm(
-        "service_9ocmnl6",
-        "template_cvy6pes",
+        "service_xn1c20v",
+        "template_cmee1yo",
         e.target,
-        "fj_Y3pqHib14qhTED"
+        "U_xjDJcGTlFz2bTmL"
       )
       .then(
         (result) => {
