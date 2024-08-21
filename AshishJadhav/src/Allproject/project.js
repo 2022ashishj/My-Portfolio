@@ -9,6 +9,7 @@ import toppers_signup from './Image/Toppers_Academy/toppers_signup.png'
 import Pollify_Home from './Image/Pollify/Pollify_Home.png'
 import pollify_polls from './Image/Pollify/pollify_polls.png'
 import pollify_binarypolls from './Image/Pollify/pollify_binarypolls.png'
+import pollify_MCQ from './Image/Pollify/pollify_MCQ.png'
 
 
 const projectsData = {
@@ -32,7 +33,7 @@ const projectsData = {
     },
     {
       title: "Pollify",
-      images: [Pollify_Home,pollify_polls,pollify_binarypolls],
+      images: [Pollify_Home,pollify_polls,pollify_binarypolls,pollify_MCQ],
       githubLink: "https://github.com/varshitha-008/Pollify",
       liveLink: "https://pollify-1.onrender.com/",
       techStack: ["JavaScript", "React", "Node", "Express", "MongoDB", "CSS3", "HTML5", "Chakra"],
