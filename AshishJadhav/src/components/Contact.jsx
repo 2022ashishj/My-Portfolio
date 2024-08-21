@@ -66,7 +66,7 @@ const Contact = () => {
           toast({
             title: "An error occurred.",
             description:
-              "Oops! There was an issue sending your message. Please try again later or contact me directly at bgpkrishna123@gmail.com.",
+              "Oops! There was an issue sending your message. Please try again later or contact me directly at 2022ashishjadhav@gmail.com.",
             status: "error",
             duration: 5000,
             isClosable: true,
@@ -79,7 +79,7 @@ const Contact = () => {
   };
 
   const handleEmailClick = () => {
-    window.location.href = "mailto:bgpkrishna123@gmail.com";
+    window.location.href = "mailto:2022ashishjadhav@gmail.com";
   };
 
   return (
